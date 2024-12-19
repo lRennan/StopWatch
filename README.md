@@ -8,6 +8,9 @@ This is a simple **React** timer that counts time in **minutes**, **seconds**, a
 - **Reset:** Reset the timer to the initial state.
 - **Time Display:** The time is displayed in the format `mm:ss:SSS` (minutes:seconds:milliseconds).
 
+
+![Screenshot_19-12-2024_192327_localhost](https://github.com/user-attachments/assets/304ab46e-179f-4acb-8aec-55d600ce625b)
+
 ## Technologies Used
 
 - **React** (using hooks like `useState` and `useEffect`)
